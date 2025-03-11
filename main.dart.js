@@ -68534,38 +68534,38 @@ return s>0?B.d.cz(this.gpY(),s+1):this.gpY()}}
 A.Io.prototype={
 aa7(a){return a.cl(this)}}
 A.EA.prototype={
-V(a4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b=null,a="Jost",a0="asset/bc.png",a1=A.cT(a4,B.eZ,t.w).w.a.a,a2=a1<1000?a1:1000,a3=A.cv(b,b,b,b,b,b,b,b,a,b,b,b,b,b,b,b,b,!0,b,b,b,b,b,b,b,b)
-a3=A.af3(b,b,A.a4v(A.cv(b,b,b,b,b,b,b,b,a,b,b,b,b,b,b,b,b,!0,b,b,b,b,b,b,b,b),a3,A.cv(b,b,b,b,b,b,b,b,a,b,b,b,b,b,b,b,b,!0,b,b,b,b,b,b,b,b),b,b,b,b,b,b,b,b,b,b,b,b),!1)
-if(a1<800)s=new A.Eu(b)
+V(a5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=null,a0="Jost",a1="asset/bc.png",a2=A.cT(a5,B.eZ,t.w).w.a.a,a3=a2<1000?a2:1000,a4=A.cv(a,a,a,a,a,a,a,a,a0,a,a,a,a,a,a,a,a,!0,a,a,a,a,a,a,a,a)
+a4=A.af3(a,a,A.a4v(A.cv(a,a,a,a,a,a,a,a,a0,a,a,a,a,a,a,a,a,!0,a,a,a,a,a,a,a,a),a4,A.cv(a,a,a,a,a,a,a,a,a0,a,a,a,a,a,a,a,a,!0,a,a,a,a,a,a,a,a),a,a,a,a,a,a,a,a,a,a,a,a),!1)
+if(a2<800)s=new A.Eu(a)
 else{s=A.dM(241,104,33,1)
-r=a1-a2
+r=a2-a3
 r=B.c.gla(r)?0:r/2
 q=A.agT(A.dM(223,93,18,1))
-p=A.bl(b,32,b)
-o=a2/3
+p=A.bl(a,32,a)
+o=a3/3
 n=t.G
-o=A.hu(A.a([A.hw(B.f8,A.a([A.a3S("asset/0.svg",1.484*o),A.f6("asset/pp.png",b,o)],n),B.aI)],n),B.aD,B.L,B.ai)
+o=A.hu(A.a([A.hw(B.f8,A.a([A.a3S("asset/0.svg",1.484*o),A.f6("asset/pp.png",a,o)],n),B.aI)],n),B.aD,B.L,B.ai)
 m=$.apX()
-o=A.bl(A.hu(A.a([o,new A.uc(1,B.CS,A.eb(A.a([A.em("Merahaba!",A.cv(b,b,m,b,b,b,b,b,b,b,b,27,b,b,B.bz,b,b,!0,b,b,b,b,b,b,b,b),B.dn),A.eb(A.a([A.em("Ben",A.cv(b,b,m,b,b,b,b,b,b,b,b,20,b,b,B.bz,b,b,!0,b,b,b,b,b,b,b,b),B.a4),A.em("Zehra Akdeniz",A.cv(b,b,A.dM(205,69,69,1),b,b,b,b,b,b,b,b,37,b,b,B.bA,b,b,!0,b,b,b,b,b,b,b,b),B.a4),A.bl(b,14,b),A.em("GRAF\u0130K\nTASARIMCISI",A.cv(b,b,$.aq7(),b,b,b,b,b,b,b,b,46,b,b,B.h3,b,b,!0,b,b,b,b,b,b,b,b),B.a4)],n),B.ao,B.L)],n),B.ao,B.pM),b)],n),B.aD,B.L,B.ai),500,b)
-l=A.bl(b,40,b)
-m=A.em(u.P,A.cv(b,b,m,b,b,b,b,b,b,b,b,b,b,b,B.bz,b,b,!0,b,b,b,b,b,b,b,b),b)
-k=A.bl(b,64,b)
-j=a2/7
-i=A.f6(a0,b,j)
-h=A.bl(b,22,b)
+o=A.bl(A.hu(A.a([o,new A.uc(1,B.CS,A.eb(A.a([A.em("Merahaba!",A.cv(a,a,m,a,a,a,a,a,a,a,a,27,a,a,B.bz,a,a,!0,a,a,a,a,a,a,a,a),B.dn),A.eb(A.a([A.em("Ben",A.cv(a,a,m,a,a,a,a,a,a,a,a,20,a,a,B.bz,a,a,!0,a,a,a,a,a,a,a,a),B.a4),A.em("Zehra Akdeniz",A.cv(a,a,A.dM(205,69,69,1),a,a,a,a,a,a,a,a,37,a,a,B.bA,a,a,!0,a,a,a,a,a,a,a,a),B.a4),A.bl(a,14,a),A.em("GRAF\u0130K\nTASARIMCISI",A.cv(a,a,$.aq7(),a,a,a,a,a,a,a,a,46,a,a,B.h3,a,a,!0,a,a,a,a,a,a,a,a),B.a4)],n),B.ao,B.L)],n),B.ao,B.pM),a)],n),B.aD,B.L,B.ai),500,a)
+l=A.bl(a,40,a)
+m=A.em(u.P,A.cv(a,a,m,a,a,a,a,a,a,a,a,a,a,a,B.bz,a,a,!0,a,a,a,a,a,a,a,a),a)
+k=A.bl(a,64,a)
+j=a3/7
+i=A.f6(a1,a,j)
+h=A.bl(a,22,a)
 g=this.c
 f=t.l7
-e=J.VQ(16,f)
-for(d=0;d<16;++d)e[d]=new A.bS(B.kk,A.f6("asset/"+d+".png",350,b),b)
-i=A.hw(B.dy,A.a([i,A.eb(A.a([new A.bS(B.by,new A.m9("G\xd6RSELLER",!1,a2,b),b),h,new A.bS(B.by,A.bl(A.aeQ(A.ajT(A.hu(e,B.a9,B.L,B.ai),g,B.bZ),g,!0,8,!0,!0),400,b),b)],n),B.a9,B.L)],n),B.aI)
-h=A.bl(b,42,b)
+e=J.VQ(8,f)
+for(d=0;d<8;d=c){c=d+1
+e[d]=new A.bS(B.kk,A.f6("asset/images/("+c+").png",350,a),a)}i=A.hw(B.dy,A.a([i,A.eb(A.a([new A.bS(B.by,new A.m9("G\xd6RSELLER",!1,a3,a),a),h,new A.bS(B.by,A.bl(A.aeQ(A.ajT(A.hu(e,B.a9,B.L,B.ai),g,B.bZ),g,!0,8,!0,!0),400,a),a)],n),B.a9,B.L)],n),B.aI)
+h=A.bl(a,42,a)
 g=this.d
-g=A.hw(B.dy,A.a([A.f6(a0,b,j),new A.bS(B.by,A.eb(A.a([new A.m9("V\u0130DEOLAR",!1,a2,b),A.bl(A.aeQ(A.ajT(A.hu(A.aiM(5,new A.ZQ(),!0,f),B.a9,B.L,B.ai),g,B.bZ),g,!0,8,!0,!0),400,b)],n),B.a9,B.L),b)],n),B.aI)
-j=A.bl(b,42,b)
-c=A.bl(b,20,b)
+g=A.hw(B.dy,A.a([A.f6(a1,a,j),new A.bS(B.by,A.eb(A.a([new A.m9("V\u0130DEOLAR",!1,a3,a),A.bl(A.aeQ(A.ajT(A.hu(A.aiM(5,new A.ZQ(),!0,f),B.a9,B.L,B.ai),g,B.bZ),g,!0,8,!0,!0),400,a)],n),B.a9,B.L),a)],n),B.aI)
+j=A.bl(a,42,a)
+b=A.bl(a,20,a)
 e=J.VQ(6,f)
-for(d=0;d<6;++d)e[d]=new A.bS(B.kj,A.f6("asset/programs/"+d+".png",40,b),b)
-s=A.ajL(s,A.ajK(new A.bS(new A.be(r,0,r,0),A.Cf(A.aiK(A.a([p,o,l,A.eb(A.a([A.eb(A.a([new A.bS(B.by,m,b),k,i,h,g,j,new A.bS(B.by,new A.m9("KULLANDI\u011eIM  PROGRAMLAR",!1,a2,b),b),c,new A.bS(B.by,A.hu(e,B.a9,B.L,B.ai),b)],n),B.ao,B.L),A.hw(B.iS,A.a([A.a3S("asset/bgbottom.svg",a2/2),new A.bS(B.CG,A.eb(A.a([new A.m9("\u0130LET\u0130\u015e\u0130M",!0,a2,b),A.hu(A.a([A.em("+90 531 848 62 33",A.cv(b,b,B.l,b,b,b,b,b,b,b,b,19,b,b,b,b,b,!0,b,b,b,b,b,b,b,b),b),A.bl(b,b,12),A.f6("asset/telefon.png",35,35)],n),B.a9,B.d3,B.ai),A.bl(b,12,b),A.hu(A.a([A.akg(A.em("zehranurakdeniz3@gmail.com",A.cv(b,b,B.l,b,b,b,b,b,b,b,b,19,b,b,b,b,b,!0,b,b,b,b,b,b,b,b),b),new A.ZR()),A.bl(b,b,12),A.f6("asset/mektup.png",35,35)],n),B.a9,B.d3,B.ai)],n),B.bv,B.L),b)],n),B.aI)],n),B.ao,B.L)],n)),new A.fx(B.j,b,q,b,b,b,B.b6),b,b,b,b),b),!0))}return new A.v2(s,"Zehra Portfolyo",a3,b)}}
+for(d=0;d<6;++d)e[d]=new A.bS(B.kj,A.f6("asset/programs/"+d+".png",40,a),a)
+s=A.ajL(s,A.ajK(new A.bS(new A.be(r,0,r,0),A.Cf(A.aiK(A.a([p,o,l,A.eb(A.a([A.eb(A.a([new A.bS(B.by,m,a),k,i,h,g,j,new A.bS(B.by,new A.m9("KULLANDI\u011eIM  PROGRAMLAR",!1,a3,a),a),b,new A.bS(B.by,A.hu(e,B.a9,B.L,B.ai),a)],n),B.ao,B.L),A.hw(B.iS,A.a([A.a3S("asset/bgbottom.svg",a3/2),new A.bS(B.CG,A.eb(A.a([new A.m9("\u0130LET\u0130\u015e\u0130M",!0,a3,a),A.hu(A.a([A.em("+90 531 848 62 33",A.cv(a,a,B.l,a,a,a,a,a,a,a,a,19,a,a,a,a,a,!0,a,a,a,a,a,a,a,a),a),A.bl(a,a,12),A.f6("asset/telefon.png",35,35)],n),B.a9,B.d3,B.ai),A.bl(a,12,a),A.hu(A.a([A.akg(A.em("zehranurakdeniz3@gmail.com",A.cv(a,a,B.l,a,a,a,a,a,a,a,a,19,a,a,a,a,a,!0,a,a,a,a,a,a,a,a),a),new A.ZR()),A.bl(a,a,12),A.f6("asset/mektup.png",35,35)],n),B.a9,B.d3,B.ai)],n),B.bv,B.L),a)],n),B.aI)],n),B.ao,B.L)],n)),new A.fx(B.j,a,q,a,a,a,B.b6),a,a,a,a),a),!0))}return new A.v2(s,"Zehra Portfolyo",a4,a)}}
 A.ZQ.prototype={
 $1(a){return new A.bS(B.kk,new A.kc("asset/videos/"+(a+1)+".mp4",!1,null),null)},
 $S:460}
@@ -68600,7 +68600,7 @@ q=A.bl(e,16,e)
 n=A.em(u.P,A.cv(e,e,n,e,e,e,e,e,e,e,e,13,e,e,B.bz,e,e,!0,e,e,e,e,e,e,e,e),e)
 m=A.bl(e,22,e)
 l=b/7
-k=A.hw(B.dy,A.a([A.f6(d,e,l),A.eb(A.a([new A.bS(B.by,new A.ma("G\xd6RSELLER",!1,b,e),e),A.bl(e,22,e),new A.bS(B.c2,A.bl(A.ajc(new A.Zg(),15),270,e),e)],p),B.a9,B.L)],p),B.aI)
+k=A.hw(B.dy,A.a([A.f6(d,e,l),A.eb(A.a([new A.bS(B.by,new A.ma("G\xd6RSELLER",!1,b,e),e),A.bl(e,22,e),new A.bS(B.c2,A.bl(A.ajc(new A.Zg(),8),270,e),e)],p),B.a9,B.L)],p),B.aI)
 j=A.bl(e,34,e)
 l=A.hw(B.dy,A.a([A.f6(d,e,l),new A.bS(B.c2,A.eb(A.a([new A.ma("V\u0130DEOLAR",!1,b,e),A.bl(e,8,e),A.bl(A.ajc(new A.Zh(),5),270,e)],p),B.a9,B.L),e)],p),B.aI)
 i=A.bl(e,22,e)
@@ -68609,7 +68609,7 @@ g=J.VQ(6,t.l7)
 for(f=0;f<6;++f)g[f]=new A.bS(B.kj,A.f6("asset/programs/"+f+".png",30,e),e)
 return A.ajL(a,A.ajK(new A.bS(new A.be(a0,0,a0,0),A.Cf(A.aiK(A.a([r,o,q,A.eb(A.a([A.eb(A.a([new A.bS(B.c2,n,e),m,k,j,l,i,new A.bS(B.c2,new A.ma("KULLANDI\u011eIM  PROGRAMLAR",!1,b,e),e),h,new A.bS(B.c2,A.hu(g,B.a9,B.L,B.ai),e)],p),B.ao,B.L),A.bl(e,32,e),A.hw(B.iS,A.a([A.a3S("asset/bgbottom.svg",b/2),new A.bS(B.CF,A.eb(A.a([new A.ma("\u0130LET\u0130\u015e\u0130M",!0,b,e),A.bl(e,8,e),A.hu(A.a([A.em("+90 531 848 62 33",A.cv(e,e,B.l,e,e,e,e,e,e,e,e,16,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e),A.bl(e,e,12),A.f6("asset/telefon.png",20,20)],p),B.a9,B.d3,B.ai),A.bl(e,5,e),A.hu(A.a([A.akg(A.em("zehranurakdeniz3@gmail.com",A.cv(e,e,B.l,e,e,e,e,e,e,e,e,16,e,e,e,e,e,!0,e,e,e,e,e,e,e,e),e),new A.Zi()),A.bl(e,e,12),A.f6("asset/mektup.png",20,20)],p),B.a9,B.d3,B.ai)],p),B.bv,B.L),e)],p),B.aI)],p),B.ao,B.L)],p)),new A.fx(B.j,e,s,e,e,e,B.b6),e,e,e,e),e),!0))}}
 A.Zg.prototype={
-$2(a,b){return A.f6("asset/"+b+".png",250,null)},
+$2(a,b){return A.f6("asset/images/("+(b+1)+").png",250,null)},
 $S:461}
 A.Zh.prototype={
 $2(a,b){return new A.kc("asset/videos/"+(b+1)+".mp4",!0,null)},
